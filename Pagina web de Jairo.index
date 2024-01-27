@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<meta charset="utf-8">
+		<title>Mis hobbies</title>		
+	</head>
+	<body style="background-color:pink">
+		<h1>MIS HOBBIES POR JAIRO CASTRO</h1>
+		<p>Hola, soy Jairo, este es mi trabajo para <b>tecnología</b></p>
+		<hr>
+		<p>En este trabajo voy a hablar de mis <i>hobbies preferidos.</i>
+		<hr>
+		<p>Mis 2 hobbies favoritos son: <i><b>Jugar al Fortnite y ver fútbol.</i></b></p>
+		<hr>
+		<p><mark>Aquí os dejo los 2 enlaces creados por mí para que veais mis 2 hobies mas a fondo</mark></p>
+		<hr>
+		<p>. <a href="file:///C:/Users/garci/Desktop/Pagina%20web%20de%20Jairo.index2" target="_blank">Fortnite</a></p>
+		<p>. <a href="file:///C:/Users/garci/Desktop/Pagina%20web%20de%20Jairo.index3">futbol</a></p>
+		<img src="imagenes/2fortnite.jpg" width="300" height="225" "alt:fortnite.">
+		<img src="imagenes/5futbol.jpg" width="300" height="225" "alt:fortnite.">
+	</body>
+</html>
